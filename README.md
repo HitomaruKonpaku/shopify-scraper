@@ -35,3 +35,8 @@ docker run --rm -it -v ${PWD}/data:/data ghcr.io/hitomarukonpaku/shopify-scraper
 ```sh
 docker run --rm -it -v ${PWD}/data:/data ghcr.io/hitomarukonpaku/shopify-scraper https://shop.hololivepro.com/en/products.json
 ```
+
+## References
+
+- [ShopifyScraper](https://github.com/practical-data-science/ShopifyScraper)
+- [Using CSV files to import and export products](https://help.shopify.com/en/manual/products/import-export/using-csv)
